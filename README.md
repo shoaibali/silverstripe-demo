@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## Overview
 
 Base project folder for a SilverStripe ([http://silverstripe.org](http://silverstripe.org)) installation. Requires additional modules to function:
@@ -51,6 +50,3 @@ If you would like to make changes to the SilverStripe core codebase, we have an 
 	STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY 
 	OF SUCH DAMAGE.
 =======
-# silverstripe-demo
-Just a demo site using cwp basic recipe. 
->>>>>>> 3aa06870dec1ec22d3cd2cbf41be2e2654f7d519
