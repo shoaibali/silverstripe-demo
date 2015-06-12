@@ -13,5 +13,5 @@ i18n::set_locale('en_US');
 
 LeftAndMain::require_css('cwp-core/css/custom.css');
 
-Director::setBaseURL('http://ssdemo/');
+//Director::setBaseURL('http://ssdemo.dev/');
 
