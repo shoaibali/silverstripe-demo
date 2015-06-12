@@ -40,7 +40,6 @@ mollom/
 spamprotection/
 recaptcha/
 .sass-cache/
-
 themes/module_bootstrap/
 phpmyadmin/
 external-content/

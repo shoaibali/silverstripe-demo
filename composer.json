@@ -7,8 +7,8 @@
     "cwp/cwp-core": "1.0.3",
 
 
-    "silverstripe/cms": "3.1.6",
-    "silverstripe/framework": "3.1.6",
+    "silverstripe/cms": "3.1.13",
+    "silverstripe/framework": "3.1.13",
 
     "silverstripe/fulltextsearch": "1.0.3",
     "silverstripe/multivaluefield": "2.0.2",
@@ -24,7 +24,8 @@
     "silverstripe/userforms": "2.0.3",
     "silverstripe/versionedfiles": "1.0.2",
     "silverstripe/versionfeed": "1.0.3",
-    "unclecheese/betterbuttons": "1.2.3"
+    "unclecheese/betterbuttons": "1.2.3",
+    "silverstripe/installer": "3.1.13"
 
 },
 
